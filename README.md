@@ -1,4 +1,4 @@
-# Pygame Apple Drop
+# Pymunk Apple Drop Simulation
 This is a simple simulation made using Pygame and Pymunk in Python. It displays an apple and a static platform on the screen. The apple falls due to gravity and bounces off the platform. The user can press the w key to give the apple an upward impulse.
 
 ## Requirements

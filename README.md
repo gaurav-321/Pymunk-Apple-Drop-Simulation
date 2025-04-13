@@ -1,24 +1,21 @@
 # 🍎 Pymunk-Apple-Drop-Simulation
 
-## Description
-
+✨ **Description**  
 Pymunk-Apple-Drop-Simulation is a simple 2D physics simulation that demonstrates how an apple falls and bounces off a static platform using Pygame for graphics and Pymunk for physics. This project is perfect for beginners learning about game development and 2D physics simulations.
 
-## Features
+🚀 **Features**
 - **Realistic Physics**: Simulates gravity, collision detection, and bouncing.
 - **User Interaction**: Press 'w' to give the apple an upward impulse.
 - **Simple GUI**: Uses Pygame to create a window with clear visuals.
 
-## Installation
-
+🛠️ **Installation**  
 To run this project, you need to have Python installed on your system. Additionally, you will need to install the required packages:
 
 ```bash
 pip install pygame pymunk
 ```
 
-## Usage
-
+📦 **Usage**  
 Here’s how you can use the program:
 
 ```python
@@ -36,15 +33,13 @@ draw_options = pymunk.pygame_util.DrawOptions(screen)
 simulation_loop(space, draw_options)
 ```
 
-## Configuration
-
+🔧 **Configuration**  
 No additional configuration is required. The script initializes everything automatically.
 
-## Tests
-
+🧪 **Tests**  
 Tests are not available for this project as it's a simple simulation with minimal complexity.
 
-## Project Structure
+📁 **Project Structure**
 
 ```plaintext
 Pymunk-Apple-Drop-Simulation/
@@ -52,8 +47,7 @@ Pymunk-Apple-Drop-Simulation/
 └── main.py
 ```
 
-## Contributing
-
+🙌 **Contributing**  
 Contributions to Pymunk-Apple-Drop-Simulation are welcome! Please fork the repository and submit a pull request.
 
 1. Fork the project on GitHub.
@@ -62,8 +56,7 @@ Contributions to Pymunk-Apple-Drop-Simulation are welcome! Please fork the repos
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
-
+📄 **License**  
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
